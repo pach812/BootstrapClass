@@ -1,0 +1,21 @@
+.jumbotron {
+    background-color: #ED6A5A;
+    color: white;
+}
+
+footer {
+    background-color: #F4F1BB;
+    height: 100%;
+}
+
+.grid-layout {
+    background-color: #9BC1BC;
+}
+.tabla-inicio {
+    background-color: #5D576B;
+    color: whitesmoke;
+}
+.contenido {
+    margin-right: 1em;
+    margin-bottom: 1em;
+}
