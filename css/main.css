@@ -1,6 +1,7 @@
 .jumbotron {
     background-color: #ED6A5A;
     color: white;
+    margin-top: 55px
 }
 
 footer {
@@ -9,10 +10,10 @@ footer {
 }
 
 .grid-layout {
-    background-color: #9BC1BC;
+    background-color: #f3fffd;
 }
 .tabla-inicio {
-    background-color: #5D576B;
+    background-color: #5a5960;
     color: whitesmoke;
 }
 .contenido {
